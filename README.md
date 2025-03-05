@@ -1,7 +1,11 @@
 This is a simple "jarvis",
+
 step 1:install all requirements by-> pip install -r requirements.txt
+
 step 2:run the main.py 
+
 step 3:say "jarvis" to awake jarvis,
+
 
 works only for:
 1]opening websites like google,facebook,instagram,youtube and linkedin. You guys can add many other website in processCommand function.
