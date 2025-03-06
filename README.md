@@ -36,7 +36,7 @@ You can extend this functionality by adding more websites in the `processCommand
 ### 2. Play YouTube Songs
 J.A.R.V.I.S can play songs on YouTube. To play a song, use the command:
 ```sh
-play songname
+play "songname"
 ```
 The assistant currently has five predefined songs in the `musicLibrary.py` file, but you can add more.
 
